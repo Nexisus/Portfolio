@@ -1,0 +1,18 @@
+.btn--nav{
+padding: 5px 20px;
+
+border:#00FFC2 solid 2px ;
+border-radius: 10px;
+background-color:#132326;
+color: #fff;
+transition: all 0.5s ease-out;
+
+background-size: 100% 200%;
+background-position:bottom ;
+}
+
+.btn--nav:hover{
+color: #fff;
+background-position: top;
+background-color: #00FFC2;
+}

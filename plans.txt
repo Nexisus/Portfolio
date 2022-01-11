@@ -1,0 +1,12 @@
+Social media, github
+Formularz kontaktowy
+Projekty
+"O mnie"
+
+*możliwość dalszej łatwej rozbudowy*
+
+
+kompotenty do zrobienia : - przyciski(dodać ciekawy efekt hoverowy)!
+			  - project viewer
+			  - formularz kontaktowy
+			  - 
